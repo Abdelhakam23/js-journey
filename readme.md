@@ -29,7 +29,7 @@ If you're learning too, feel free to follow along.
 ## Repo structure
 
 ```
-ecmascript-journey/
+javascript-journey/
 ├── README.md           ← you're here
 ├── session-01/
 │   ├── README.md       ← full session notes
