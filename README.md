@@ -20,8 +20,8 @@ If you're learning too, feel free to follow along.
 
 | Session | Topics | Status |
 |---------|--------|--------|
-| [Session 01](./session-01/) | Variables · Data Types · `null` vs `undefined` · Type Conversion · The `+` Operator · Conditionals · Loops | ✅ Done |
-| [Session 02](./session-02/) | Functions · Declaration vs Expression · Parameters & Arguments · Hoisting · IIFE · DOM Basics | ✅ Done |
+| [Session 01](Session-01) | Variables · Data Types · `null` vs `undefined` · Type Conversion · The `+` Operator · Conditionals · Loops | ✅ Done |
+| [Session 02](Session-02) | Functions · Declaration vs Expression · Parameters & Arguments · Hoisting · IIFE · DOM Basics | ✅ Done |
 | Session 03 | Coming soon | 🔜 |
 
 ---
