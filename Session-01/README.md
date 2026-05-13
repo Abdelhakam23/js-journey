@@ -591,4 +591,4 @@ Add `break` after each case to stop this.
 
 ---
 
-*⬅️ [Back to main](../README.md) | [Session 02 ➡️](../session-02/README.md)*
+*⬅️ [Back to main](../README.md) | [Session 02 ➡️](../Session-02/README.md)*
