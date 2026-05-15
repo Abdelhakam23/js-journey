@@ -315,4 +315,4 @@ var mahmoud = function() {
 
 ---
 
-*⬅️ [Session 01](../Session-01/README.md) | [Back to main](../README.md) | Session 03 ➡️ (coming soon)*
+*⬅️ [Session 01](../Session-01/README.md) | [Back to main](../README.md) | [Session 03](../Session-03/README.md)*
