@@ -22,7 +22,8 @@ If you're learning too, feel free to follow along.
 |---------|--------|--------|
 | [Session 01](Session-01) | Variables · Data Types · `null` vs `undefined` · Type Conversion · The `+` Operator · Conditionals · Loops | ✅ Done |
 | [Session 02](Session-02) | Functions · Declaration vs Expression · Parameters & Arguments · Hoisting · IIFE · DOM Basics | ✅ Done |
-| Session 03 | Coming soon | 🔜 |
+| [Session 03](Session-03) | Objects · Hosted vs Built-in Objects · Accessing Properties · Methods · Hidden Class · Delete · Arrays · Array of Objects · Array Methods · Math Methods | ✅ Done |
+| Session 04 | Coming soon | 🔜 |
 
 ---
 
