@@ -577,4 +577,4 @@ console.log(randomBetween(50, 100)); // anywhere from 50 to 100
 
 ---
 
-*⬅️ [Session 02](../session-02/README.md) | [Back to main](../README.md) | Session 04 ➡️ (coming soon)*
+*⬅️ [Session 02](../Session-02/README.md) | [Back to main](../README.md) | Session 04 ➡️ (coming soon)*
