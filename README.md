@@ -4,7 +4,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Sessions](https://img.shields.io/badge/Sessions-2-blue?style=flat-square)
+![Sessions](https://img.shields.io/badge/Sessions-3-blue?style=flat-square)
 
 ---
 
